@@ -31,5 +31,14 @@ Desktop.ini
 # Build files
 dist/*
 
-# Playground tmp files
-.playground
+# Ionic files
+coverage/
+tmp/
+temp/
+hooks/
+platforms/
+plugins/
+plugins/android.json
+plugins/ios.json
+www/
+$RECYCLE.BIN/
